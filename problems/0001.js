@@ -10,3 +10,13 @@ function sumOfMultiples(){
   }
   window.alert(soma);
 }
+
+/* function sumOfMultiples(x, y, z){
+  let soma = 0;
+  for (let i = 0; i < z; i++){
+      if (i % x == 0 || i % y == 0){
+        soma += i;
+      }
+  }
+  console.log(soma);
+} */
